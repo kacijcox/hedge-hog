@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url("../images/stars.gif");
+    background-image: url("/stars.gif");
 }
 
 .marquee-container {

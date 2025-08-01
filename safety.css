@@ -13,8 +13,7 @@
 }
 
 body {
-    background-image: url("../images/stars.gif");
-    cursor: url("../../images/rainbow-pointer.cur"), auto;
+    background-image: url("/stars.gif");
 }
 
 .pwned-image-box {
